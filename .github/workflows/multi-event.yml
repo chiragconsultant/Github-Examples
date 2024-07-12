@@ -17,7 +17,7 @@ jobs:
           echo "Job ID: $GITHUB_JOB"
           echo "Action: $GITHUB_ACTION"
           echo "Actor: $GITHUB_ACTOR"
-          echo "TRYING"
+          echo "TRYING ss"
           echo "REF: $github_ref"
           echo "Job ID: $github_job"
           echo "Action: $github_ACTION"
